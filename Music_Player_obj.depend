@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1526562716 source:c:\users\ridam jaggi\desktop\data structres\music_player_obj\main.cpp
+	<iostream>
+	<string.h>
+	"shuffle.h"
+	"searching.h"
+
+1526477282 c:\users\ridam jaggi\desktop\data structres\music_player_obj\shuffle.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1526567765 c:\users\ridam jaggi\desktop\data structres\music_player_obj\searching.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<map>
+
